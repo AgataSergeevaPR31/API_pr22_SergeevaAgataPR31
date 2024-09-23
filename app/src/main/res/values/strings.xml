@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">API</string>
+    <string name="weather">Показать погоду</string>
+    <string name="cityname">Введите город</string>
+    <string name="city">Название города</string>
+    <string name="temper">Температура:</string>
+    <string name="scorost">Скорость ветра:</string>
+    <string name="pascal">Давление:</string>
+    <string name="nameofcity">Город:</string>
+    <string name="x">x</string>
+</resources>
